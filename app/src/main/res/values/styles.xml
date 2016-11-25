@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <!-- 轮播的数据-->
+    <string-array name="TitleData">
+        <item>搜寻外星文明</item>
+        <item>苹果说了写什么</item>
+        <item>爆款男装</item>
+        <item>每日必抢</item>
+        <item>双11又忍不住了吗</item>
+    </string-array>
+
+    <string-array name="ImageData">
+        <item>http://xxxxxxx.jpg</item>
+        <item>http://ttttt.jpg</item>
+        <item>https://xxxx.jpg</item>
+        <item>https://xxxx.jpg</item>
+        <item>https://xxxx.jpg</item>
+    </string-array>
+
+
+</resources>
